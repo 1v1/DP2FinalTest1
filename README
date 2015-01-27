@@ -1,0 +1,38 @@
+Distributed Programming II (A.Y. 2014/15)
+======================================================
+
+Test n. 1
+----------------
+
+This archive contains:
+
+- README            This file
+
+- FinalTest1.pdf  	The text of the final test
+
+- buildTest1.xml    Ant file for the final test
+
+- answer.txt		An empty file where you have to write the answer to the question
+
+- Assignment4a.pdf  The text of assignment 4 part a
+
+- Assignment4b.pdf  The text of assignment 4 part b
+
+- build.xml         Ant file for assignment 4
+
+- lib               A directory containing the jars needed for the test and for assignment 4
+
+- samples           A directory containing sample input and output files for assignment 4
+
+- src               The directory where you must put your code
+
+- wsdl              The directory where you must put your WSDL files
+
+- xsd               A directory containing the schema for the XML files to be used by the client
+
+- data		    	A directory containing customization files for the pseudo random data generator
+
+- custom		    A directory where you can put your customization binding files
+
+
+

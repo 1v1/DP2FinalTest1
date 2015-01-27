@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:boarding xmlns:ns2="http://pad.polito.it/fdsBoarding" endpoint="http://localhost:7070/fdscontrol" flight="MA665" date="2010-02-14+01:00">
+    <passenger>Giuseppe Chemin</passenger>
+    <passenger>Elisabeth Di Crescenzo</passenger>
+    <passenger>Marco Del Santo</passenger>
+    <passenger>Paolo Del Santo</passenger>
+    <passenger>Giuseppe Aziz</passenger>
+</ns2:boarding>
